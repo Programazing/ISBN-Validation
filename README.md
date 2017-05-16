@@ -18,7 +18,7 @@ Make a reference to the DLL in your project.
 Define a using statement
 
 ```csharp
-using ISBN-Validation;
+using ISBN_Validation;
 ```
 
 Create a boolean to use.
