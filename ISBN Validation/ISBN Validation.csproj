@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
     <AssemblyName>ISBN-Validation</AssemblyName>
-    <RootNamespace>ISBN-Validation</RootNamespace>
+    <RootNamespace>IsbnValidation</RootNamespace>
   </PropertyGroup>
 
 </Project>

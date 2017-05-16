@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace ISBN_Validation
+namespace IsbnValidation
 {
     public class Validate
     {
