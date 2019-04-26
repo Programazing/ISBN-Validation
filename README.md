@@ -1,4 +1,5 @@
 # ISBN Validation
+![](https://img.shields.io/badge/Status-Inactive-critical.svg)
 
 This is what I've been using to validate ISBNs before saving to a data-source in the [Open School Library](https://github.com/Programazing/OpenSchoolLibrary) project.
 
